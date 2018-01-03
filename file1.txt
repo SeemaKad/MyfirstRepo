@@ -1,0 +1,12 @@
+Welcome to Git--
+Hi this is seeema
+This is the first file
+
+
+Learning Git
+
+Change 2 is added in this file
+ 
+Change 3
+
+Change 4 
